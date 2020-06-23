@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sirius-test-281204",
+  "private_key_id": "45473ffeec8f0f01616eedb6b58593c8951413d1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5YaZ/T7U7IJ5f\n3AtHGFpnqBrVKUzgjwCvAZCOrDkroWipyOMAGWWhY6zkfGI1TepxcEcw4ICX3h44\nw3gJGz83gPTQeoo4AfKubMYlHlL5VzHdMQ89WnsDrJ0s+QsV6a4EdjXvMej4/L7Y\n5WG8zVBf2q0RfvcAv5fB7UuCf8ICMbvufqxKaMB3CvLGlU9Dz+gmyE+HTTlMos4x\nYTR9hzf9vPG7+vrZNMAcbSkrFEJQVETi/TVJguNCGxBGaLvEKHpw+EWL0pbU9q0C\nkMxQCKp2/ZBflVar1SHxormbkUao/Wwj8JPFZObgSnrOxDZXPVqcd7j2k9poh5NE\nnJzJz+XdAgMBAAECggEAGGaSTgUdl3IIbpkt0daShbzShVa5lAA2qJJl5uWj48qL\n1ndG68sr/aV7SxrVKWt/TZ2n/Ta7rmGx7CpMaTRxKnranntWqJ8XBJ70KMwYQ1IX\nEeSEe0Cm2vm0OYhxTVnUCinOGRUic21/KFju97U1nFxR9fDWjb5qOQAlNYDf9j5A\nJLC/F6ccAQ3iYzb4yZfGzkGN2sXQLAdO+QMN431mwYxB08aZoYJU9/gs8JvUNGHz\nXHcfMDdYktB1GNNaCXR02gEnkVabl0I9vsKnvDFIDo4UmIFISsLj8mcuNoprSocG\ng8+nwVjwadgb6VgRcvcVdYobtSKYQngNSMN+qwpw6QKBgQD8To43dHpIdXx+Dxp2\nuqHTRhPDo6jGexXICmRWDmPaCyjWw0xFi8ykoMfpbaBQnU+dFFvzs76F7+eRuRzI\nS2x+UlyhADgZkjBJzobv5OiV8URMk3UEak93xys/oTTHsRmdiNhf7gmIFjCjkhm7\nq1c2JFhGswEFn5WQXAKfMjjJyQKBgQC8GE/YIUhRd0AzJIvnDafVeOCkmbCphIhX\nrCtWn8UZO3jQU2JvHQUIJaFZYyNkT/1EIesjvCNhmOP4bSh9xYIv/vFNiHHyBV8A\nKgSjVQXiCDOLOh6mjUCGuv090QCwLJRDr5a6UmQy5XooJv65HFBffirhIwvRxzyz\nVAI11/TFdQKBgQCznjkgwYtMildWZuowHC2YewsW/CvrITUgdEV5/kSXtdodCmwC\nFsRZbxzi0WiP+23yJcxQcmXwdBonY+FZtlhGldvbwowtqCU4Zg8qOYxbMqes3E0y\nF3z7iI8BfYJVp37U59cidBPVDfcSe7BWKmSr5rPxoP3ZQwL3AonbS6WiAQKBgAE7\n75otbboLHEK5pKlZb5Z4+pBZ6czS78oTeR1SYwqtVzeWtHiiKhxJkutxORQ5aiH+\nTvqnC1xikmxY2wEoQJhsBc1KbeT2oA7yN6GStz0qbJwnP3g8SQYZR/wV2PlO8ZIY\nHtcOH1YuJ0UILHeudeCKhWGAx10S/5T1oiYUSqjZAoGBAJwrbnIfp/SP4gXl/pbA\nLxjcQBe3VlIfdMp0+AGz1rC9XBnFu7k5oB+KBnnN6+XJ2t0GPnN9hjHk4a61vbWe\n6WDG4hbimCgjO1PWzPdrVewzliIpNBxAtq3ksDNe6VtutW3kptfccPPBXSd2tpx4\nok2ew6QL3LBQrXhGMmCCn2PZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "account@sirius-test-281204.iam.gserviceaccount.com",
+  "client_id": "113638922740661152024",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/account%40sirius-test-281204.iam.gserviceaccount.com"
+}
